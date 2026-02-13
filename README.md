@@ -19,12 +19,10 @@ SQL • Python • Tableau • Snowflake • Azure • dbt
 
 (But honestly? Tools change. Problem-solving doesn't.)
 
-
+---
 
 **Looking for a data analyst who can think beyond the dashboard? Let's connect.**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/lakshmi14k/))
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kumar.laks@northeastern.edu)
 
----
-*Currently seeking data analyst roles • Open to relocation*
