@@ -26,4 +26,5 @@ SQL • Python • Tableau • Snowflake • Azure • dbt
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/lakshmi14k/))
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kumar.laks@northeastern.edu)
 [![Website](https://img.shields.io/badge/Website-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://lakshmi14k.vercel.app/)
+[![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledocs&logoColor=white)](https://docs.google.com/document/d/1ff8ziDVotIqrgyjA3e3wMUqUxwrarijI/edit?usp=sharing&ouid=111289653817921251477&rtpof=true&sd=true&usp=embed_facebook)
 
